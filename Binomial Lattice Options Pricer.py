@@ -1,5 +1,5 @@
 """
-Binomial lattice option pricer for american put or call option
+Binomial lattice option pricer for European put or call option
 Also visualises the call or put option lattice next to the stock price lattice
 """
 
